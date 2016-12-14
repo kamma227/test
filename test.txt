@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 58DE-7F8E
+
+ Directory of C:\Users\kam6393\Desktop\kpk
+
+12/14/2016  01:59 PM    <DIR>          .
+12/14/2016  01:59 PM    <DIR>          ..
+12/14/2016  01:59 PM               118 test.txt
+               1 File(s)            118 bytes
+               2 Dir(s)  184,991,653,888 bytes free
